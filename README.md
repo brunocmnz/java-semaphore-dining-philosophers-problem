@@ -5,7 +5,7 @@ Mas o problema se faz porque não há talheres para todos, ou seja, ao lado de c
 
 Dessa forma, surge aqui um problema de concorrência entre os filósofos para a utilização dos talheres. 
 Digamos que é uma narrativa bem estranha, mas que elucida bem o dilema da programação multithreads. 
-Os filósofos aqui representam as Threads e os talheres são os recursos que elas compartilham, como por exemplo, a necessidade da atualização do valor de uma variável.
+Os filósofos aqui representam as Threads e os talheres são os recursos que elas compartilham, como por exemplo, a permissão de atualização do valor de uma variável.
 
 Este projeto foi desenvolvido em Java, utilizando a técnica dos semáforos, que controlam se a Thread pode ou não atuar sobre um recurso.
 
