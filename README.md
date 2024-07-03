@@ -47,6 +47,7 @@ To uderstand it visually, click on the Gif below, to see the animation. In this 
   <br>
 </div>
 
+
 Therefore, as the cutlery represents the shared resource, there cannot be two adjacent philosophers eating simultaneously, which does not happen, as you can see in the GIF.
 
 ⚠️ Attention: In order for you to be able to run the .jar file, Java must be installed on your machine.
