@@ -22,3 +22,22 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 ![jantar-dos-filosofos-gif](https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f)
 
 
+# # Abstract:
+
+During the Operating Systems course, semaphores were discussed, a technique used to manage competing resources between Threads.
+A very famous problem that deals with this is the philosophers' dinner problem, a circular table with some philosophers around it.
+But the real problem is because there is not enough cutlery for everyone, the competing resource is the cutlery, which is used by the two philosophers surrounding him.
+
+It is a very strange story, isn't it? But that story can explain the dilemma of the multithreaded programming.
+The philophers represent the Threads and the cutlery are like the resources that they are sharing, like the permission to update a variable, for example.
+
+This project was developed in Java, using the semaphores technique, which manage wether the Theads can act on a resource or not.
+
+To uderstand it visually, click on the Gif below, to see the animation. In this example, there are four situations to the philosopher:
+
+- Thinking: The Thread is doing a work that does not involve competing resources, or a Thread that is not workin.
+- Wainting: The Thread that wants to use the resource when it is alredy in use, that is, it has to wait.
+- Eating: The Tread that is using the competing resource.
+- Full: The Thread has already completed its work and closed.
+
+
