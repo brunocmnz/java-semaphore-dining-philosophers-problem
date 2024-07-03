@@ -34,12 +34,14 @@ The philophers represent the Threads and the cutlery are like the resources that
 This project was developed in Java, using the semaphores technique, which manage wether the Theads can act on a resource or not.
 
 To uderstand it visually, click on the Gif below, to see the animation. In this example, there are four situations to the philosopher:
-- Thinking: The Thread is doing a work that does not involve competing resources, or a Thread that is not workin.
-- Wainting: The Thread that wants to use the resource when it is alredy in use, that is, it has to wait.
-- Eating: The Tread that is using the competing resource.
-- Full: The Thread has already completed its work and closed.
+- Thinking (Pensando): The Thread is doing a work that does not involve competing resources, or a Thread that is not workin.
+- Wainting (Esperando): The Thread that wants to use the resource when it is alredy in use, that is, it has to wait.
+- Eating (Comendo): The Tread that is using the competing resource.
+- Full (Cheio): The Thread has already completed its work and closed.
 
-![jantar-dos-filosofos-gif](https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f)
+<div align="center">
+  <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
+</div>
 
 Therefore, as the cutlery represents the shared resource, there cannot be two adjacent philosophers eating simultaneously, which does not happen, as you can see in the GIF.
 
