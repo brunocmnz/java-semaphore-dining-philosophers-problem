@@ -22,7 +22,9 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 <div align="center">
   <br>
   <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
+  <p>
   <br>
+  </p>
 </div>
 
 # # java-semaphore-dining-philosophers-problem:
