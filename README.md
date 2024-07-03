@@ -19,5 +19,5 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 
 <img src = "/midia/jantar-dos-filosofos-gif.gif">
 
-<video autoplay src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/43644420-4e30-44ca-a091-bd271b91f9ff"></video>
+<video autoplay loop muted  src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/43644420-4e30-44ca-a091-bd271b91f9ff"></video>
 
