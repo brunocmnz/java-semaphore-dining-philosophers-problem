@@ -15,7 +15,7 @@ Abaixo está um Gif que mostra visualmente a simulação do jantar dos filósofo
 - Comendo: A Thread que está fazendo uso do recurso concorrente.
 - Cheio: A Thread já realizou todo seu trabalho e encerrou. 
 
-Sendo assim, como os talheres é o recurso compartilhado, não pode haver dois filósofos adjacentes comendo simultâneamente, o que não acontece, conforme é possível ver no GIF.
+Sendo assim, como os talheres representam o recurso compartilhado, não pode haver dois filósofos adjacentes comendo simultâneamente, o que não acontece, conforme é possível ver no GIF.
 
 <img src = "/midia/jantar-dos-filosofos-gif.gif">
 
