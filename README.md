@@ -20,7 +20,9 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 ⚠️ Atenção: Para que você consiga executar o arquivo .jar, o Java deve estar instalado em sua máquina.
 
 <div align="center">
+  <br>
   <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
+  <br>
 </div>
 
 # # java-semaphore-dining-philosophers-problem:
@@ -42,6 +44,7 @@ To uderstand it visually, click on the Gif below, to see the animation. In this 
 <div align="center">
   <br>
   <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
+  <br>
 </div>
 
 Therefore, as the cutlery represents the shared resource, there cannot be two adjacent philosophers eating simultaneously, which does not happen, as you can see in the GIF.
