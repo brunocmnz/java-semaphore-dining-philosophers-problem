@@ -16,6 +16,7 @@ Abaixo está um Gif que mostra visualmente a simulação do jantar dos filósofo
 - Cheio: A Thread já realizou todo seu trabalho e encerrou. 
 
 Sendo assim, como os talheres representam o recurso compartilhado, não pode haver dois filósofos adjacentes comendo simultâneamente, o que não acontece, conforme é possível ver no GIF.
+
 ⚠️ Atenção: Para que você consiga executar o arquivo .jar, o Java deve estar instalado em sua máquina.
 
 ![jantar-dos-filosofos-gif](https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f)
