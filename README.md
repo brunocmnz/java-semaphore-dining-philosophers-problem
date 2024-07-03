@@ -1,4 +1,4 @@
-#java-semaphore-dining-philosophers-problem
+# java-semaphore-dining-philosophers-problem
 Durante a disciplina de Sistemas Operacionais, foi abordado sobre semáforos, técnica utilizada para administrar recursos concorrentes entre Threads.
 Um problema muito famoso que envolve esse assunto, é o problema do jantar dos filósofos, que consiste em uma mesa redonda com os pratos dispostos lado a lado. 
 Mas o problema se faz porque não há talheres para todos, ou seja, ao lado de cada prato, há um talher, seja um garfo ou uma faca, sendo que para comer, o filósofo necessita dos dois. Nesse sentido, o recurso concorrente é cada talher, sendo que os filósofos (Threads) adjacentes à ele competem por seu uso.
