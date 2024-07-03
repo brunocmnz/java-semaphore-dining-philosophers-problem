@@ -19,6 +19,5 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 
 <img src = "/midia/jantar-dos-filosofos-gif.gif">
 <video width="600" controls src="/midia/jantar-dos-filosofos-video.mp4" type="video/mp4">
-</video>
 
 
