@@ -22,8 +22,8 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 <div align="center">
   <p><br></p>
   <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
-  <p><br></p>
 </div>
+<p><br></p>
 
 # # java-semaphore-dining-philosophers-problem:
 During the Operating Systems course, semaphores were discussed, a technique used to manage competing resources between Threads.
@@ -44,8 +44,8 @@ To uderstand it visually, click on the Gif below, to see the animation. In this 
 <div align="center">
   <p><br></p>
   <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
-  <p><br></p>
 </div>
+<p><br></p>
 
 
 Therefore, as the cutlery represents the shared resource, there cannot be two adjacent philosophers eating simultaneously, which does not happen, as you can see in the GIF.
