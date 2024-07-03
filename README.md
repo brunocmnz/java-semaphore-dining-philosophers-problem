@@ -19,8 +19,9 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 
 ⚠️ Atenção: Para que você consiga executar o arquivo .jar, o Java deve estar instalado em sua máquina.
 
-![jantar-dos-filosofos-gif](https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f)
-
+<div align="center">
+  <img width="50%" src="[/triangulo-sierpinsky-animacao.gif](https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f)">
+</div>
 
 # # java-semaphore-dining-philosophers-problem:
 During the Operating Systems course, semaphores were discussed, a technique used to manage competing resources between Threads.
