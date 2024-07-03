@@ -23,7 +23,6 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 
 
 # # Abstract:
-
 During the Operating Systems course, semaphores were discussed, a technique used to manage competing resources between Threads.
 A very famous problem that deals with this is the philosophers' dinner problem, a circular table with some philosophers around it.
 But the real problem is because there is not enough cutlery for everyone, the competing resource is the cutlery, which is used by the two philosophers surrounding him.
@@ -40,4 +39,6 @@ To uderstand it visually, click on the Gif below, to see the animation. In this 
 - Eating: The Tread that is using the competing resource.
 - Full: The Thread has already completed its work and closed.
 
+Therefore, as the cutlery represents the shared resource, there cannot be two adjacent philosophers eating simultaneously, which does not happen, as you can see in the GIF.
 
+⚠️ Attention: In order for you to be able to run the .jar file, Java must be installed on your machine.
