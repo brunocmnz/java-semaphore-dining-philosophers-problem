@@ -40,6 +40,7 @@ To uderstand it visually, click on the Gif below, to see the animation. In this 
 - Full (Cheio): The Thread has already completed its work and closed.
 
 <div align="center">
+  <br>
   <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
 </div>
 
