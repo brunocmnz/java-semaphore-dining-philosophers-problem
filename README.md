@@ -18,6 +18,9 @@ Abaixo está um Gif que mostra visualmente a simulação do jantar dos filósofo
 Sendo assim, como os talheres representam o recurso compartilhado, não pode haver dois filósofos adjacentes comendo simultâneamente, o que não acontece, conforme é possível ver no GIF.
 
 <img src = "/midia/jantar-dos-filosofos-gif.gif">
-<video width="600" controls src="/midia/jantar-dos-filosofos-video.mp4" type="video/mp4">
+<video width="600" controls>
+  <source src="/midia/jantar-dos-filosofos-video.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
 
