@@ -20,7 +20,7 @@ Sendo assim, como os talheres representam o recurso compartilhado, não pode hav
 ⚠️ Atenção: Para que você consiga executar o arquivo .jar, o Java deve estar instalado em sua máquina.
 
 <div align="center">
-  <img width="50%" src="[/triangulo-sierpinsky-animacao.gif](https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f)">
+  <img width="50%" src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/704b1d47-dff0-4ff9-8756-3f3257b6196f">
 </div>
 
 # # java-semaphore-dining-philosophers-problem:
