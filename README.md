@@ -15,7 +15,5 @@ Abaixo está um Gif que mostra visualmente a simulação do jantar dos filósofo
 - Comendo: A Thread que está fazendo uso do recurso concorrente.
 - Cheio: A Thread já realizou todo seu trabalho e encerrou. 
 
-<p>
-  <img width="500" autoplay src = "/midia/jantar-dos-filosofos-gif.gif">
-</p>
+<img src = "/midia/jantar-dos-filosofos-gif.gif">
 
