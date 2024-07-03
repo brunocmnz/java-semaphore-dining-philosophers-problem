@@ -17,7 +17,5 @@ Abaixo está um Gif que mostra visualmente a simulação do jantar dos filósofo
 
 Sendo assim, como os talheres representam o recurso compartilhado, não pode haver dois filósofos adjacentes comendo simultâneamente, o que não acontece, conforme é possível ver no GIF.
 
-<img src = "/midia/jantar-dos-filosofos-gif.gif">
-
-<video autoplay loop muted  src="https://github.com/brunocmnz/java-semaphore-jantar-filosofos/assets/117315412/43644420-4e30-44ca-a091-bd271b91f9ff"></video>
+<img src="https://github.com/usuario/repositorio/raw/main/midia/jantar-dos-filosofos-gif.gif" alt="Jantar dos Filósofos">
 
